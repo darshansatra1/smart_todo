@@ -28,7 +28,19 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+  firebase_auth:
+  cloud_firestore:
+  google_sign_in:
+  path_provider:
+  flutter_facebook_login:
+  flutter_local_notifications:
+  intl:
+  flutter_datetime_picker:
+  splashscreen:
+  states_rebuilder:
+  webfeed:
+  reddit:
+  flutter_twitter:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
