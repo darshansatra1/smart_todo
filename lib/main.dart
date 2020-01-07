@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
 //      theme: ,
-      home: RedditSI(),
+      home: Scaffold(body: RedditSI()),
 
 
 
