@@ -16,12 +16,6 @@ A new Flutter application.
 ![image](https://user-images.githubusercontent.com/57319246/71898204-b32e0780-317e-11ea-9954-545502ca4900.png)
 <hr>
 
-- Message scheduler 
-- Alexa integration to update keep notes 
-- Retrieve memes based on a message
-- Tweet top 5 tweets
-- post on Facebook/instagram according to your location and background in a selfie
-<hr>
 
 ## UI Example
 
